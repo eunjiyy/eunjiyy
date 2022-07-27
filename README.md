@@ -1,8 +1,6 @@
 # <👋Hello, world/>
 
-
-
-
+### 안녕하세요!  I'm EUNJI!
 
   
 ## 📚Tech Stack
